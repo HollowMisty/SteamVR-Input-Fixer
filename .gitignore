@@ -1,0 +1,15 @@
+# build outputs
+build/
+dist/
+*.spec
+__pycache__/
+
+# generated assets — recreate with gen_assets.py
+*.png
+*.ico
+*.rgba
+
+# runtime artifacts
+*.log
+*.vrmanifest
+selftest.txt

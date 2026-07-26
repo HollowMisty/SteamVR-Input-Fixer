@@ -26,6 +26,8 @@ registration.
 
 ## Use
 
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/0c18c99e-cb70-4000-b1ee-a6116334af24" />
+
 Open the SteamVR dashboard, pick the **SteamVR Input Fixer** tab, and tap
 **FIX INPUT**. The fix:
 
